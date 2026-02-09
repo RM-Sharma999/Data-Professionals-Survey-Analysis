@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/3SWdVUp.jpg)
 
-# Data Professionals Survey Analysis - Power BI
+# Data Professionals Survey Analysis
 
 I have created this dashboard as part of my data analyst portfolio, that shows basic statistics of Data Professionals like: 
 - Their Country.
