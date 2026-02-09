@@ -1,14 +1,7 @@
 ![](https://i.imgur.com/3SWdVUp.jpg)
 
 # Data Professionals Survey Analysis
-
-I have created this dashboard as part of my data analyst portfolio, that shows basic statistics of Data Professionals like: 
-- Their Country.
-- Their Favorite Programming Language.
-- Their Average Salary By Job Title.
-- Their Average Salary By Gender.
-- Happiness With Work/Life Balance.
-- Happiness With Salary.
+This dashboard was created as part of my **data analyst portfolio** to explore and visualize key insights about **data professionals** across different roles and regions.
 
 # Dataset
 The dataset originally consists of 630 responses from individuals spread across the world with the greatest portion of them being from the United States(261 Survey Takers), the survey collected information about an individual's profession, education and demographic information among others. 
