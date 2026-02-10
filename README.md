@@ -39,7 +39,7 @@ The dataset was **cleaned and processed using Power BI (Power Query Editor)** to
 ![](https://i.imgur.com/cGxuvPJ.png)
 
 ### 3. Salary by Job Title
-- The survey shows that the **highest-paying job titles** are **Data Scientist, Data Engineer, Data Architect, and Data Analyst**.
+- The survey shows that the **highest-paying roles** are **Data Scientist, Data Engineer, Data Architect, and Data Analyst**.
 
 ![](https://i.imgur.com/4SrJWTo.png)
 
@@ -61,10 +61,6 @@ The dataset was **cleaned and processed using Power BI (Power Query Editor)** to
 ---
 
 ## Conclusion
-The survey report provide valuable insights into the data field, highlighting the importance of Python as a preferred programming language, the earning potential of various data roles, and the significance of work-life balance, Salary and so many other things. 
-
-Organizations and professionals can utilize these findings to make informed decisions and drive positive changes in the industry to keep their employees happy.
-
 The survey report provides valuable insights into the data field, highlighting the importance of **Python** as a preferred programming language, the **earning potential of various data roles**, and the significance of **work–life balance and salary satisfaction**, along with several other career-related factors.
 
 These insights help paint a clearer picture of current trends within the data industry. Organizations and professionals can use this information to make **informed decisions**, improve workplace policies, and drive **positive changes** that support career growth and employee well-being.
