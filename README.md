@@ -31,14 +31,19 @@ The dataset was **cleaned and processed using Power BI (Power Query Editor)** to
 
 ![](https://i.imgur.com/1n6RuJp.png)
 - The favorite programming language across all job titles is **Python**, with **R** also being a popular choice. Both languages are widely used for **data analysis, visualization, and machine learning**.
+
 ![](https://i.imgur.com/cGxuvPJ.png)
 - The survey shows that the **highest-paying job titles** are **Data Scientist, Data Engineer, Data Architect, and Data Analyst**.
+
 ![](https://i.imgur.com/4SrJWTo.png)
 - The survey also shows that the **average salary of females is slightly higher than that of males**.
+
 ![](https://i.imgur.com/tnTYCl8.png)
 - On average, individuals rated their **work–life balance happiness** at **5.74 out of 10**.
+
 ![](https://i.imgur.com/P6qE5FS.png)
 - On Average, the individual's **Happiness With Salary** was about **4.27 / 10**.
+
 ![](https://i.imgur.com/N1nR1aR.png)
 
 ---
