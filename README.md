@@ -16,7 +16,7 @@ The objective of this project is to **analyze survey data** and present **clear,
 - Happiness with salary.
 
 ## About the Dataset
-The dataset consists of **630 survey responses** from data professionals across different countries, with the largest portion coming from the **United States (261 respondents)**. The survey captures a wide range of information, including **job roles, education background, salary details, and demographic characteristics**, providing a comprehensive view of the data industry.
+The dataset consists of **630 survey responses** from data professionals across different countries, with the largest portion coming from the **United States (261 respondents)**. The survey captures a wide range of information, including **job roles, education background, salary details, and demographics**.
 
 The dataset was **cleaned and processed using Power BI (Power Query Editor)** to ensure accuracy and consistency. **Empty columns with no values** were removed, and several fields such as **Job Title, Country, and Salary** were transformed and standardized to make them more suitable for analysis and visualization.
 
