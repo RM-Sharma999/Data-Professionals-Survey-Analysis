@@ -39,7 +39,7 @@ The dataset was **cleaned and processed using Power BI (Power Query Editor)** to
 ![](https://i.imgur.com/cGxuvPJ.png)
 
 ### 3. Salary by Job Title
-- The survey shows that the **highest-paying roles** are **Data Scientist, Data Engineer, Data Architect, and Data Analyst**.
+- The survey shows the **highest-paying roles** are **Data Scientist, Data Engineer, Data Architect, and Data Analyst**.
 
 ![](https://i.imgur.com/4SrJWTo.png)
 
