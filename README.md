@@ -1,7 +1,9 @@
 ![](https://i.imgur.com/3SWdVUp.jpg)
 
 # Data Professionals Survey Analysis
-This dashboard was created as part of my **data analyst portfolio** to explore and visualize key insights about **data professionals** across different roles and regions.
+
+This dashboard was created to explore and analyze a global survey of **data professionals**. It converts raw survey data into meaningful, interactive visualizations that reveal trends in **career paths, compensation, technical preferences, and job satisfaction** across the data industry.
+
 
 # Dataset
 The dataset originally consists of 630 responses from individuals spread across the world with the greatest portion of them being from the United States(261 Survey Takers), the survey collected information about an individual's profession, education and demographic information among others. 
