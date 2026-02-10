@@ -27,21 +27,33 @@ The dataset was **cleaned and processed using Power BI (Power Query Editor)** to
 ---
 
 ## Insights
+
+### 1. Country Distribution
 - The individuals who took the survey were primarily from the **United States, United Kingdom, India, and Canada**.
 
 ![](https://i.imgur.com/1n6RuJp.png)
+
+### 2. Programming Language Preference
 - The favorite programming language across all job titles is **Python**, with **R** also being a popular choice. Both languages are widely used for **data analysis, visualization, and machine learning**.
 
 ![](https://i.imgur.com/cGxuvPJ.png)
+
+### 3. Salary by Job Title
 - The survey shows that the **highest-paying job titles** are **Data Scientist, Data Engineer, Data Architect, and Data Analyst**.
 
 ![](https://i.imgur.com/4SrJWTo.png)
+
+### 4. Salary by Gender
 - The survey also shows that the **average salary of females is slightly higher than that of males**.
 
 ![](https://i.imgur.com/tnTYCl8.png)
+
+### 5. Work–Life Balance Satisfaction
 - On average, individuals rated their **work–life balance happiness** at **5.74 out of 10**.
 
 ![](https://i.imgur.com/P6qE5FS.png)
+
+### 6. Salary Satisfaction
 - On Average, the individual's **Happiness With Salary** was about **4.27 / 10**.
 
 ![](https://i.imgur.com/N1nR1aR.png)
