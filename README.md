@@ -4,13 +4,23 @@
 
 This dashboard was created to explore and analyze a global survey of **data professionals**. It converts raw survey data into meaningful, interactive visualizations that reveal trends in **career paths, compensation, technical preferences, and job satisfaction** across the data industry.
 
+## Objective
 
-# Dataset
-The dataset originally consists of 630 responses from individuals spread across the world with the greatest portion of them being from the United States(261 Survey Takers), the survey collected information about an individual's profession, education and demographic information among others. 
+The objective of this project is to **analyze survey data** and present **clear, interactive insights** on:
 
-The dataset was cleaned and processed through the power editor in Power BI. First off, there were some columns in the original dataset with no values so those were removed. Some other fields such as Job Title, Country and Salary were modified to be more suitable for visualization.
+- Country distribution.
+- Favorite programming languages.
+- Average salary by job title.
+- Average salary by gender.
+- Happiness with work–life balance.
+- Happiness with salary.
 
-# Insights
+## About the Dataset
+The dataset consists of **630 survey responses** from data professionals around the world, with the largest share coming from the **United States (261 respondents)**. The survey includes information on **profession, education, salary, and demographics**.
+
+The dataset was **cleaned and processed in Power BI (Power Query Editor)**. **Empty columns with no values** were removed, and fields such as **Job Title, Country, and Salary** were transformed to make them more suitable for visualization.
+
+## Insights
 - The Individuals who took the survey were largely from US, UK, India and Canada.
 ![](https://i.imgur.com/1n6RuJp.png)
 - The favorite programming language across all job titles is Python. R is also a highly chosen option in many of the cases. Both languages happen to be highly capable in data analysis, visualization and machine learning.
