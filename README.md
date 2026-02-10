@@ -28,6 +28,7 @@ The dataset was **cleaned and processed using Power BI (Power Query Editor)** to
 
 ## Insights
 - The individuals who took the survey were primarily from the **United States, United Kingdom, India, and Canada**.
+
 ![](https://i.imgur.com/1n6RuJp.png)
 - The favorite programming language across all job titles is **Python**, with **R** also being a popular choice. Both languages are widely used for **data analysis, visualization, and machine learning**.
 ![](https://i.imgur.com/cGxuvPJ.png)
